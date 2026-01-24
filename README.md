@@ -1,9 +1,9 @@
-# Husk20 🌱💧
+# Husk2O 🌱💧
 
-Husk20 is an eco-focused water brand initiative aimed at promoting sustainable hydration solutions.
+Husk2O is an eco-focused water brand initiative aimed at promoting sustainable hydration solutions.
 
 ## 🌍 About
-Husk20 is built with a vision to replace single-use plastic bottles using innovative, environment-friendly materials made from natural husk-based resources.
+Husk2O is built with a vision to replace single-use plastic bottles using innovative, environment-friendly materials made from natural husk-based resources.
 
 ## 🎯 Objective
 - Reduce plastic pollution  
